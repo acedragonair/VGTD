@@ -1,0 +1,71 @@
+Chapter 3 Questions
+1.1
+A village sufferers many strange disappearance that took place at night when the moon is full. 
+One day a a young mans father disappeared on an eclispe but no one knew where he went. 
+Sad that his father disappeared the young mans started on a journey to find out what had happened. 
+The start point of the search started from his small house where his father was last seen then progressed to the hunting forest. 
+There he would have to fight several beast like creatures,(ie.wolves&bear), gather supplies, and track his fathers clues(ei.footprints,clothing,broken branches).
+Following the clues left by the trails of his father he ventures to the middle of the forest where the river was located. 
+The clues stops and prompt the scene of a terrifying truth about the village mysterious disapperance. 
+It was a huge serpent(dragon) able to fly and big enough to cover the moon itself as if it was eating it.
+The serpent was big and strong the boy did not have a chance,therefore, he ran to the village with the serpent in pursuit. 
+the village was asleep.The boy have utalize his evironment to find a way to wake everyone up.
+He finds multiple items which he had to put together to  make a loud noise waking everyone up. 
+As the villager woke from their slumber they made alot of of noice making the serpent scared and decided to retreat to the lake where every so often he would rise to the surface eat the moon only to be chase by the noise of pots and pan made by the villagers.the End.
+
+1.2
+A village sufferers many strange disappearance that took place at night when the moon is full. 
+One day a a young mans father disappeared on a full moon but no one knew where he went.
+Sad that his father disappeared the young mans started on a journey to find out what had happened.
+The start point of the search started from his small house where his father was last seen then progressed to the hunting forest. 
+When the boy headed the foest he spots a trapped animaland is given the option to to save or follow the clues ignoring it.
+(Saving the animal will make you its companion unlocking different abilities with interaction.)
+The new companion will help you track the clues left by your father and ultimately aid you in defeating the monsters thats to come.
+When the boy gets to the river in the middle of the forest. (if his with the companion add an additional scene where the animal finds the fathers clothing in the river followed by the scence when the serpent emerges)
+The boy if faced with 2 desicion battle the serpent or run to village for help.
+Either by getting the villagers help or killing it alone a scene will prompt at the end of the battle just about when your about to kill it.
+The sun rises the serpent started to glow transform to his dad giving you the final option to weather to kill your father or let him live in the forest.(if you came with the villagers you will be exiled from the village and your father will be hunted)
+
+2.1(realtime)
+-NPC interaction
+-battle engine
+
+2.2(turn based)
+-NPC diaolouge 
+-scenes when the character unlock certain areas.
+-items to be collected
+-character moral choices
+-calculation to player power
+-battle engine
+
+The core mechanics I chosed for the linear story is real-time mechanic.
+this is due to the fact that their is little player input, therefore, the core mechanic can simply operate continuously during the game.
+
+the core mechanics is chose for the second story is turn-base. 
+Since, there was alot of story branching in the second story and player input.
+this will intrun change the story depending on the players input.
+
+3.1
+-compound entity(avatar)
+
+The difficulty would bepercieve difficulty.This is due to the fact that thier is no power system no action the cause the character to experience growth.
+
+3.2
+-a multiple compound entities(avatar,inventory,followers)
+-any wepon acuired(hatchet,stick)
+-wild resources(water,herbs)
+-converts (posion food potion)
+
+the difficutly will be a relative difficulty. this means that the difficulty will be scaled as the player proggress through the story.
+this will also change as he gain access to diferent abilities and weapons.
+ 
+ 4.1
+ Linear path for the first.
+-small game tutorial at the start for controls
+
+4.2
+I would choose a parralel for the second story for varios paths.
+-small game tutorial at the start for controls
+-sigle space with multiple monster
+-power up system
+-scence unlocks base on location
