@@ -1,0 +1,118 @@
+Chapter 6 Exercise
+
+2a.
+
+CatalystWarsGDD_BAD.pdf
+ 
+ * It isn't in the proper GDD format.(It is lacking proper sections and is very hard to follow)
+ 
+ * It doesn't specify any information on target platforms, target audience, or desired ESRB. 
+
+ * The GDD is also missing a section 5. It skips right from 4 to 6. 
+
+ * Parts are included in the wrong sections such as the projected timeline being at the very end when this should be in the introduction.
+
+
+FlyingGDD_BAD.pdf
+Whats missing
+
+* table of content
+
+* lack of proper headings(usually indicated in the TABLE OF CONTENT )
+
+* introdution lacks to to mention the target audience
+
+* lacks proper structure(ei.game mechanics are placed in the introduction.)
+
+* Missing schedule & budget int he intro
+
+* lack appendies
+
+* lacks character description
+
+* story not highlighted
+
+* focus too much on game play
+
+ClawGDD_OK.pdf
+
+* Table of contents included, organization is key for easy readability
+
+* Includes elements added over the course of development.
+
+* User controls being added shows that you have a good idea on the gameplay
+
+* Shows items and UI elements that will be in the game with illustrations for each one.
+
+* Levels are organized separately from each other and the enemies are nicely grouped with them.
+
+* States a target audience. Knowing who to market your game to is key to meet target sales.
+
+DoomGDD_OK.pdf
+whats good DUCK
+* has mulitple illustrations of the game(especially in the cover page)
+
+* follows a good outline using the table of content
+
+* clear character(thie Barrett), story, location (includes a diagram map of a floor) and item decriptions.
+
+* clear outline of each episode.
+
+* appendices contains all relavent additional information(theres a glosary with more images ie.Aardwolf.Also has file extension ei.DMx File for Doom Episode x)
+
+* has marketing idea which in cluded the rating(PR)
+
+PolePostionGDD_OLD.pdf
+Pole Position:
+
+* A basic gameplay description seems to have always been necessary for selling a game in a GDD.
+
+* Descriptions for all the game's different game systems still exists in this document.
+
+
+* A table of contents is missing from this document, although the document is way less lengthy
+than the modern ones and the inter-office memo takes up a majority of it.
+
+* Illustrations are missing
+
+* The target audience is missing
+
+* The story description is missing.
+
+* The document should include anything about the levels / map of the game.
+
+* Missing appendices.
+
+* Missing objects, items, and UI along with descriptions for them.
+
+* Missing controls.
+
+
+
+* Seems to include an inter-office memo at the end of the document that includes any problems the development
+and production teams had.
+
+* Game systems, modes, and hardware requirements seem to be the maximum of what should've been included in
+a GDD at the game for both documents.
+
+TempestGDD_OLD.pdf
+Same components
+*provides a introdution to the game
+	-description othe the game
+	-includes harware requirements
+
+*the game play mechaniecs
+	-table of contents
+	-player controls
+	-offers different modes
+	-provide game stuctures(difficulty)
+	-user interface(options,point tracker, levels)
+
+Missing components
+	-game mechnics(object intreactionmissing)
+	-Description (location,objects.)
+	-appendies
+	-lacks images
+
+
+
