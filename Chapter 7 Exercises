@@ -1,0 +1,35 @@
+Chapter 7 Exercises
+1.
+Things I would include
+
+-Introduction
+*genre
+*platform,game 
+*design concept,
+*potential pitfall
+*timeline
+*milestone
+This will give the new comer a better insigt to what exactly it's about.
+
+-create a game mananger
+This will be included in the the Game application modules that will controlled any objectes created in the game.
+incllude all the item class in the "Inventory Backend" and others like;
+*motion,and collison
+*when to dictate spacial effects and or audio
+*the phsics of the game.
+This will help futher categorize the the game function thus making it easier to read for a newcomer for the project.
+
+4A.
+The first UML highlights the weapon baseclass(CLASS DIAGRAM)
+contains
+-component (sheathe, handle, blade)
+-the allocators(getstatus)
+-the different(class)weapons(axe, sword)
+-effect(lightning)
+
+The second UML states the character customization process(ACITVITY DIAGRAM)
+contains
+-profile option(probably stat)
+-character name
+-character sprite(option already given)
+-start game
