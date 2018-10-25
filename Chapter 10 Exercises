@@ -1,0 +1,57 @@
+Chapter 10 Exercises
+
+1.risk=[likelihood that the event will occur]*[impact/cost of the event]
+a) Low Impact.
+
+* Don't add any new features unless they are absolutely necessary. They shouldn't impact your game much.
+
+* Schedule stays on track because of this descision.
+
+* No changes to budget
+
+b)High risk =[not likelily]*
+[*time lost,
+*requires another hire, or transfer of another person to the role,
+* extra cost, 
+*configuration on the schedule, 
+*later release of the game, ]
+counter
+*shcedule extra time
+*extra budget
+
+c)c. low risk = [Not very likely to occur] * 
+not likely going to affect the final project unless a huge bug occurs that needs fixing
+counter
+Give insentive to work(free lunch)
+Enable the workers to work at home
+
+POKEMON BLUE
+
+
+What went wrong:
+
+* Lack of communication
+
+* Some team members absent or late for a big majority of the project. 
+* The leader left halfway.
+* Poor time management, lack of a proper schedule
+* Adapting to C++ PLUS SDL
+* World map code interfering with building code
+* Difficulties with team members combining code together
+* Unecessary reworking near the end of the project deadline
+* Missing interface
+
+
+
+What went right:
+
+* Battle system was functionable
+* Map transitions worked out great in the end
+* We created a pretty darn good name input screen in console
+
+
+What we can learn from the experience:
+
+* Learned how SDL worked, for the most part....
+* Manage time better
+* Find an established way to communicate with other personel
